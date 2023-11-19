@@ -1,3 +1,9 @@
+'''
+Program konversi data grib ERA5 menjadi input data wave boundary condition Delft3D
+created by Usman Efendi
+usman.efendi@bmkg.go.id
+'''
+
 import pygrib 
 import numpy as np
 from datetime import datetime
